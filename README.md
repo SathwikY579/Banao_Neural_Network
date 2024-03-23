@@ -29,10 +29,11 @@ Below is an example usage of the code:
 
 # Example usage
 image_path = '/content/Screenshot 2024-03-23 233800.png'
+
 detected_elements = detect_elements(image_path)
+
 print_detected_elements(detected_elements)
-Contributing
-Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
